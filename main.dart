@@ -6,5 +6,5 @@ void main() {
    print('product issue fixed');
    print("login issue fixed");
    print("changes in main");
-   print("added main feature");
+   print("added main features");
 }

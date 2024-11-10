@@ -7,5 +7,9 @@ void main() {
    print("login issue fixed");
    print("changes in main");
    print("added main features");
+   print("added products in product page");
+   print("init firebase");
+   print("git cherrypick tutorial");
+   print("this branch will be deleted");
    print('latest change in login');
 }
